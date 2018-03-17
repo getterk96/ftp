@@ -1,0 +1,3 @@
+/home/getterk/下载/2015013194/client/src/CMakeFiles/rebuild_cache.dir
+/home/getterk/下载/2015013194/client/src/CMakeFiles/edit_cache.dir
+/home/getterk/下载/2015013194/client/src/CMakeFiles/client.dir
